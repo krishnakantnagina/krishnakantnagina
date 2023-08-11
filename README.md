@@ -11,7 +11,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://telegram.me/Thetechnohacker"><b>here</b></a><br>
+Ask me anything <a href="https://telegram.me/Patidar2"><b>here</b></a><br>
 or <a href="mailto:naginakrishnakant@gmail.com"><b>email</b></a> me. <br>
 Still learning...... <br>
 An introvert <br>
